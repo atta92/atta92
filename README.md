@@ -27,14 +27,14 @@ I enjoy converting UI designs into reusable Blade components and working closely
 🔹 **Commentada** – AI-powered sports reporting platform  
 https://commentada.com  
 
-🔹 **ClubCows** – Club & sports management system  
+🔹 **ClubCows** – B2B Marketplace Request Lifecycle Management System  
 https://clubcows.com  
 
 🔹 **ComicsWorth** – Comics marketplace  
 https://www.comicsworth.com/nl  
 
-🔹 **OnlineWebPOS** – Point of Sale system (WordPress)  
-https://onlinewebpos.com  
+🔹 **Tridefair** – Multi-vendor Ecommerce Platform  
+https://tridefair.com  
 
 ---
 
